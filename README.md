@@ -1,9 +1,9 @@
 # Hi there, I'm heemant1 👋
 
 ### 👨‍💻 About Me
-- 🌱 I’m a beginner learning **Flutter**
+- 🌱 I’m a **Flutter** devloper
 - 💡 Passionate about all things **Computer Science** and **IT**
-- 🌏 Based in **Nepal**
+- 🌏 from **Nepal**
 - 🚀 Excited to build cool mobile apps and explore new technologies!
 
 ### 🔭 What I'm Working On
@@ -13,7 +13,6 @@
 ### 📚 Learning Goals
 - Master the basics of Flutter & Dart
 - Build and publish my first real-world app
-- Connect with other developers and learn from the open-source community
 
 ---
 
